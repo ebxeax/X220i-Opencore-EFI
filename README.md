@@ -5,4 +5,5 @@
 - Lan
 ## partial work
 - Wifi =: solution : Heliport + itlwm.kext
+## sample
 ![Mac sample](./Macintosh.jpeg)
