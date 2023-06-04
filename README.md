@@ -4,12 +4,18 @@
  - RAM 8GB hynix 1333
  - SSD WestDigtal WDPCSSD 120G Media
 ## not work * Searching solution now *
-- --Mircophone--
+- Mircophone for Siri
 - Lan
 
 ## partial work
 - Wifi :
  solution : Heliport + itlwm.kext
+
+## dmg use
+test on 
+- high sierra
+- catalina
+- montery
 
 ## sample
 ![Mac sample](./Macintosh.jpeg)
