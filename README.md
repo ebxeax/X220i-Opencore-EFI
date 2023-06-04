@@ -4,7 +4,7 @@
  - RAM 8GB hynix 1333
  - SSD WestDigtal WDPCSSD 120G Media
 ## not work * Searching solution now *
-- Mircophone
+- --Mircophone--
 - Lan
 
 ## partial work
