@@ -16,9 +16,10 @@
 
 ## dmg use
 test on 
-- high sierra ✅
-- catalina ✅
-- montery (through catalina update) ✅
+- High Sierra ✅
+- Catalina ✅
+- Bis Sur ✅
+- Montery (through catalina update) ✅
 
 ## sample
 ![Mac sample](./Macintosh.jpeg)
